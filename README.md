@@ -1,4 +1,4 @@
-GDPS CORE FOR 2.209 BETA , BY JOLAF
+# GDPS CORE FOR 2.209 BETA , BY JOLAF
 
 Actualmente aun falta subir el contenido de las carpetas principales como config o dashboard 
 esto es beta y aun no esta terminado 
