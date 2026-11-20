@@ -1,15 +1,13 @@
-# GDPS CORE FOR 2.209 BETA , BY JOLAF
+# GDPS CORE FOR 2.209, BY JOLAF
 
-Actualmente aun falta subir el contenido de las carpetas principales como config o dashboard 
-esto es beta y aun no esta terminado 
-no uses este repositorio en tu gdps 
-si quieres crear un gdps sin gdpsfh ve a 
+Actualmente aun faltan algunas funciones para 2.209 , pero esta ya tiene arreglos diferencia de la version de MegaSa1nt
+este núcleo ya es muy funcional a diferencia del de MegaSa1nt para crear un gdps automático ve a
 
 https://jolafgdpscore.netlify.app 
 
 # Que hay de diferente
 
-esta version esta adaptada casi al 100% con 2.209 pero en este repositorio no esta completa si quieres usar la version completa ve a 
+esta version esta adaptada casi al 100% con 2.209 pero aun faltan algunas funciones si quieres administrar un gdps sin gdpsfh automatizando todo ve a
 
 https://jolafgdpscore.netlify.app 
 
